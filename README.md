@@ -4,7 +4,7 @@
 
 ```bash
 
-(https://colab.research.google.com/drive/1_x3hAFpDW66xRpsY6WtbzvNhASgy0IVc#scrollTo=HL63NYlVTcKi)
+[https://colab.research.google.com/drive/1_x3hAFpDW66xRpsY6WtbzvNhASgy0IVc#scrollTo=HL63NYlVTcKi](url)
 
 ```
 
@@ -12,6 +12,6 @@
 
 
 ```bash
-(https://colab.research.google.com/drive/1nKYQzWMvooGfVFqGQXHkP4xtkS9GHZR8#scrollTo=p_YhVcNzVZko)
+[https://colab.research.google.com/drive/1nKYQzWMvooGfVFqGQXHkP4xtkS9GHZR8#scrollTo=p_YhVcNzVZko](url)
 
 ```
